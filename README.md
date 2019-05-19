@@ -1,5 +1,7 @@
 # MNIST Deep Convolutional Generative Adversarial Network (DCGAN)
 
+![Generated Image Evolution During Training](mnist-dcgan.gif)
+
 ## Background
 My first attempt at TensorFlow 2.0 and GAN by experimenting with TensorFlow's [tutorial](https://www.tensorflow.org/alpha/tutorials/generative/dcgan).
 
